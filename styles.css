@@ -1,0 +1,13 @@
+body {
+    background-color: #00acb0;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contentdiv {
+   padding-left: 20px;
+}
