@@ -1,0 +1,15 @@
+{
+  "name": "solo-jquery-review-master",
+  "version": "1.0.0",
+  "description": "appends a list of people, their gender, and their email address.",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremy cloutier",
+  "license": "ISC"
+}
